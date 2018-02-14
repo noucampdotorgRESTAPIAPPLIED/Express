@@ -132,3 +132,15 @@ Change to the ``samples`` folder using the Command Prompt.  Then run these sampl
 
 
 1.	Modify the the code in ``teams.html`` and ``teams.php`` again to display the results for the team chosen from the dropdown box.  Use a ``<table>`` to show the results.
+
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 1 - Part 3 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
