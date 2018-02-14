@@ -1,0 +1,6 @@
+.DS_Store
+.DS_Store?
+Thumbs.db
+solutions/
+node_modules/
+jquery-3.3.1.min.js
