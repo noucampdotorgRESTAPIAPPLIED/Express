@@ -128,7 +128,7 @@ Change to the ``samples`` folder using the Command Prompt.  Then run these sampl
 		<option value="6">Wales</option>
 	</select>
 
-1.	Examine the ``index.js`` program that has an incomplete route to get specific team results.  Modify this route so it returns results for any given team id.  For example, get the results for England with - [http://http://localhost:3000/results/team/1](http://http://localhost:3000/results/team/1)
+1.	Examine the ``index.js`` program that has an incomplete route to get specific team results.  Modify this route so it returns results for any given team id.  For example, get the results for England with - [http://localhost:3000/results/team/1](http://localhost:3000/results/team/1)
 
 
 1.	Modify the the code in ``teams.html`` and ``teams.php`` again to display the results for the team chosen from the dropdown box.  
