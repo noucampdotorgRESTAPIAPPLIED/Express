@@ -3,7 +3,7 @@
 ## Fetch latest Repository Branch
 
 ```
-$ cd /DRIVE/xampp/htdocs/jQuery
+$ cd /DRIVE/xampp/htdocs/Express
 $ git pull --no-edit https://github.com/noucampdotorgRESTAPIAPPLIED/Express.git latest
 $ git status
 
