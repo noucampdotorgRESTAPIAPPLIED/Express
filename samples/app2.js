@@ -8,7 +8,7 @@ app.get("/", function(req,res){
 
 // another route
 app.get("/noucamp", function(req,res){
-  res.send('<h1>Hello noucamp</h1>');
+  res.send('<h1>Hello Noucamp</h1>');
 });
 
 var myServer = app.listen(3000, function() {
