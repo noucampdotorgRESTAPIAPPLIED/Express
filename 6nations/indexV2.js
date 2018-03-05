@@ -24,7 +24,6 @@ app.get("/results/:year?", function(req,res){
 	res.send(_.where(resultData.results,{year: req.params.year}));
 });
 
-
 app.post("/teams/add", function(req,res){	
 	console.log(req.body);
 	teamData.teams.push(req.body);
