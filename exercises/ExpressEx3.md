@@ -67,3 +67,30 @@ $ git status
 	```
 
 
+# Part 3 – Express File Server
+
+
+1.	In Part 2 three *static* files where used:
+
+	-	``addTeam.html``
+	-	``addTeam.js``
+	-	``teams.html``
+
+	These files were handled/served by the XAMPP server.  It's not necessary to use XAMPP to serve these files when Express can do this for you in your web app.
+
+	Move these files to a new ``public`` subfolder within the ``6nations`` web app and serve them using the web app, not XAMPP.  
+
+	Test it works by using the URLs [http://localhost:3000/addTeam.html](http://localhost:3000/addTeam.html) and [http://localhost:3000/teams.html](http://localhost:3000/teams.html)
+
+1.	Push your code to **your private** repository on GitHub.  Type these commands into your *Git Bash* client:
+
+	```
+	$ git status
+	$ git add .
+	$ git commit -m "Exercise 3 - Part 3 DONE|PARTIAL|HELP"
+	$ git push origin master
+	$ git status
+
+	```
+
+

@@ -1,0 +1,14 @@
+{
+  "name": "mysqlteams",
+  "version": "1.0.0",
+  "description": "Test MySQL query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Devine",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
